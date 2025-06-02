@@ -1,9 +1,7 @@
 //
 //  LoginApp.swift
 //  Login
-//
-//  Created by Chetan on 26/4/2025.
-//
+
 
 import SwiftUI
 
@@ -11,7 +9,7 @@ import SwiftUI
 struct LoginApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginView()
         }
     }
 }

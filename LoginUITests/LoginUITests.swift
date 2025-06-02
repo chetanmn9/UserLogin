@@ -1,9 +1,7 @@
 //
 //  LoginUITests.swift
 //  LoginUITests
-//
-//  Created by Chetan on 26/4/2025.
-//
+
 
 import XCTest
 
